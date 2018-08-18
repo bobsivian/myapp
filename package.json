@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "this is a express application for ifos Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobsivian/myapp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Herbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobsivian/myapp/issues"
+  },
+  "homepage": "https://github.com/bobsivian/myapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
